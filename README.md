@@ -1,2 +1,2 @@
 # Collinear-Antiferromagnet-Strain-Collective-Coordinates-Simulator
-Analytical simulator for numerical integration of (currently) antiferromagnetic Néel domain wall motion induced by strain excitations
+Analytical simulator for numerical integration of (currently) antiferromagnetic Néel domain wall motion induced by strain excitations. Implements linear, oscillatory strain gradients, surface acoustic waves and gaussian pulses. The model uses a completely analytical expression of the domain wall profile but still includes approximations for DMI-induced boundary forces and geometrical pinning potential derived from energy-Hamiltonian considerations.
